@@ -1,0 +1,61 @@
+{
+    "slider": [
+      {
+        "title": "Run Your Business Wherever & Whenever",
+        "image": null,
+        "description": "ISME Soft is an integrated business transaction software for small and medium business to manage business in realtime, online, easy"
+      }
+    ],
+    "news": {
+      "profit-that-matters": {
+        "title": "Profit That Matters",
+        "description": "Back office system mampu membantu mengendalikan pengeluaran perusahaan secara cerdas sehingga menghasilkan keuntungan yang tinggi.",
+        "html": "<p>Heello</p>",
+        "image": "home4.jpg"
+      },
+      "be-part-of-our-team": {
+        "title": "Be Part Of Our Team",
+        "description": "Bekerja secarakreatif dan inovatif akan memberikan pengalaman yang berbeda bagi Anda dengan bergabung bersama kami.",
+        "html": "<p>Heello</p>",
+        "image": "home5.jpg"
+      },
+      "its-excelso-time": {
+        "title": "It’s Excelso Time",
+        "description": "Implementation Schedule : mengintip apa kata Excelso tentang fitur-fitur back office yang ditawarkan oleh ISMESoft.",
+        "html": "<p>Heello</p>",
+        "image": "home6.png"
+      },
+      "profit-that-matters1": {
+        "title": "Profit That Matters1",
+        "description": "Back office system mampu membantu mengendalikan pengeluaran perusahaan secara cerdas sehingga menghasilkan keuntungan yang tinggi.",
+        "html": "<p>Heello</p>",
+        "image": "home4.jpg"
+      },
+      "be-part-of-our-team1": {
+        "title": "Be Part Of Our Team1",
+        "description": "Bekerja secarakreatif dan inovatif akan memberikan pengalaman yang berbeda bagi Anda dengan bergabung bersama kami.",
+        "html": "<p>Heello</p>",
+        "image": "home5.jpg"
+      }
+    },
+    "review": [
+      {
+        "name": "Ms. Sheirla",
+        "position": "Owner The Swift Nature Nest",
+        "text": "ISMESoft sangat membantu kami dalam sistem konsinyasi, terutama dalam pencatatan stock, sehingga kami mampu memetakan mana saja product-product yang tergolong fast-moving dan slow-moving. Sangat penting untuk mengetahui ini sehingga kami dapat mencegah penumpukan stock yang dapat memicu keberadaan stok kadaluarsa.",
+        "image": "user.jpg"
+      },
+      {
+        "name": "Mr. Budi A.",
+        "position": "Owner Pulsa Shop 28",
+        "text": "Kami merasa sangat aman dalam penyimpanan data kami dengan menggunakan sistem yang berbasis online ini, karena sebelum berlangganan ISMESoft kami pernah mengalami kehilangan data ketika masih menggunakan sistem yang berbasis offline yang berdampak pada proses operasional kerja kami.",
+        "image": "user.jpg"      
+      },
+      {
+        "name": "Ms. Lina",
+        "position": "Owner Verve Bistro & Coffee Bar",
+        "text": "ISMESoft sangat membantu kami dalam mengontrol hutang piutang dan mengatur pembayaran ke vendor. Di samping itu, staff pembelian kami juga sangat terbantu dan sudah tidak pernah kehabisan stok lagi.",
+        "image": "user.jpg"      
+      }
+    ]
+  }
