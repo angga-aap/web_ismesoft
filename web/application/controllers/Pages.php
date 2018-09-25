@@ -9,8 +9,9 @@ class Pages extends CI_Controller {
 
         $data['data'] = $this->Json->getDataFromJSON();
         $data['slug'] = $slug;
-        
-        $this->load->view('templates/header');
+        $data['active_page'] = $page;
+
+        $this->load->view('templates/header', $data);
         $this->load->view('pages/'.$page, $data);
         $this->load->view('templates/footer');
     }
@@ -20,8 +21,9 @@ class Pages extends CI_Controller {
 
         $data['data'] = $this->Json->getDataFromJSON();
         $data['slug'] = $slug;
+        $data['active_page'] = "news";
 
-        $this->load->view('templates/header');
+        $this->load->view('templates/header', $data);
         $this->load->view('pages/news-content', $data);
         $this->load->view('templates/footer');
     }

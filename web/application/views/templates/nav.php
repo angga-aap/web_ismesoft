@@ -10,19 +10,19 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
+          <li class="nav-item <?php echo ($active_page == 'home') ? 'active': ''?>">
             <a class="nav-link" href="<?php echo base_url();?>home"  >HOME <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php echo ($active_page == 'about') ? 'active': ''?>">
             <a class="nav-link" href="<?php echo base_url();?>about">ABOUT US</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item  <?php echo ($active_page == 'product') ? 'active': ''?>">
             <a class="nav-link" href="<?php echo base_url();?>product">PRODUCT</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php echo ($active_page == 'career') ? 'active': ''?>" >
             <a class="nav-link" target="_blank" rel="noreferrer" href="https://www.jobstreet.co.id/id/job-search/job-vacancy.php?ojs=10&key=Siba">CAREER</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php echo ($active_page == 'news') ? 'active': ''?>">
             <a class="nav-link" href="<?php echo base_url();?>news">NEWS</a>
           </li>
         </ul>
